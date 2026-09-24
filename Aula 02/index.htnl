@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Conteúdo Aula 02 HTML</title>
+    </head>
+    <body>
+
+        <h1>Atributos em elementos no HTML</h1>
+
+        <p>Exemplo de atributo href</p>
+        <a href="https://www.w3schools.com">Clique aqui</a>
+
+        <hr>
+
+        <p>Exemplo de atributos src: </p>
+
+        <ing src="joia.avif" width="250" heith="180">
+      
+    </body>
+</html>
